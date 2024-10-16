@@ -42,7 +42,13 @@ footer {
     border-bottom: 1px solid #ccc;
     padding: 5px;
   }
+  .resize-img{
+    width: 100%;
+    height: auto;
+  }
   nav ul li a {
+    display: inline-block;
+    width: 100%;
     font-weight: bold;
     text-decoration: none;
     color: #fff;
